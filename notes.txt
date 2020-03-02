@@ -1,0 +1,2 @@
+- Run: python createPlot.py 
+- it will open the created plot in the webbrowser, as well as the file in AWS/data
